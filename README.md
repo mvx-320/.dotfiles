@@ -12,5 +12,7 @@ https://github.com/mvx-320/.dotfiles.git
 ``` 
 3. Execute `setup.sh`
 ``` bash
-./.dotfiles/setup.sh
+cd .dotfiles
+chmod +x setup.sh
+./setup.sh
 ```
