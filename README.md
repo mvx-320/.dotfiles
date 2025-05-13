@@ -1,5 +1,5 @@
 # .dotfiles
-Configuration for Vim and Bash
+Configuration for Tmux, Vim and Bash
 
 ## Setup:
 1. Go to the `home` directory:
